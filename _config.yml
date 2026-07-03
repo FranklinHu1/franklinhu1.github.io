@@ -1,15 +1,15 @@
 # --- Site settings ---
-title: Franklin Hu
+title: Frank Hu
 email: frankhu@stanford.edu
 description: >-
-  Personal website of Franklin Hu — PhD candidate at Stanford working on
+  Personal website of Frank Hu — PhD candidate at Stanford working on
   machine learning for chemistry, molecular spectroscopy, and biology.
 baseurl: "" # subpath of your site, e.g. /blog
 url: "https://franklinhu1.github.io" # the base hostname & protocol for your site
 
 # --- Author / social ---
 author:
-  name: Franklin Hu
+  name: Frank Hu
 github_username: FranklinHu1
 
 # --- Build settings ---

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Franklin Hu, a researcher at Stanford University. My work focuses on
+I'm Frank Hu, a researcher at Stanford University. My work focuses on
 applying machine learning to problems in chemistry, including:
 
 - **Molecular spectroscopy** — predicting and interpreting NMR, IR, and

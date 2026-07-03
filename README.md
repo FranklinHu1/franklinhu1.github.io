@@ -1,6 +1,6 @@
 # franklinhu1.github.io
 
-Personal website for Franklin Hu, published with [Jekyll](https://jekyllrb.com/)
+Personal website for Frank Hu, published with [Jekyll](https://jekyllrb.com/)
 on [GitHub Pages](https://pages.github.com/) at
 **https://franklinhu1.github.io**.
 
