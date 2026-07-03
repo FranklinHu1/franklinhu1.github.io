@@ -1,0 +1,44 @@
+# --- Site settings ---
+title: Franklin Hu
+email: frankhu@stanford.edu
+description: >-
+  Personal website of Franklin Hu — researcher at Stanford working on
+  machine learning for chemistry and molecular spectroscopy.
+baseurl: "" # subpath of your site, e.g. /blog
+url: "https://franklinhu1.github.io" # the base hostname & protocol for your site
+
+# --- Author / social ---
+author:
+  name: Franklin Hu
+github_username: FranklinHu1
+
+# --- Build settings ---
+# minima is the default theme shipped with GitHub Pages — no plugin install needed.
+theme: minima
+minima:
+  skin: auto # respects the visitor's light/dark preference
+  social_links:
+    - platform: github
+      user_name: FranklinHu1
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Show excerpts on the home page post list
+show_excerpts: true
+
+# --- Exclude from processing ---
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
