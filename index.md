@@ -19,5 +19,3 @@ dynamics.
 - 💻 Browse my [code &amp; repositories](/repositories/).
 - 📄 More [about me](/about/).
 - ✉️ Reach me at [frankhu@stanford.edu](mailto:frankhu@stanford.edu).
-
-## Recent posts
