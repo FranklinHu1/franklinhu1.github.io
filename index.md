@@ -12,8 +12,7 @@ title: Home
 I'm a PhD candidate in chemistry at **Stanford University**, working at the
 intersection of machine learning and the molecular sciences — including
 molecular spectroscopy, automated structure elucidation, generative models
-for chemistry and biology, and machine-learning potentials for molecular
-dynamics.
+for chemistry and biology, and molecular dynamics.
 
 - 📚 See my [publications](/publications/).
 - 💻 Browse my [code &amp; repositories](/repositories/).
