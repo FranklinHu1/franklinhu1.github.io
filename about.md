@@ -7,11 +7,13 @@ permalink: /about/
 I'm Frank Hu, a researcher at Stanford University. My work focuses on
 applying machine learning to problems in chemistry, including:
 
-- **Molecular spectroscopy** — predicting and interpreting NMR, IR, and
-  other spectra from molecular structure.
+- **Theories of spectroscopy** — how to simulate and describe complex
+  multidimensional spectroscopies from first principles.
+- **Molecular dynamics** — simulating and studying condensed-phase systems,
+  such as chromophores in explicit solvent, using MLP-accelerated dynamics.
 - **Structure elucidation** — inferring chemical structures from spectral data.
-- **Generative models for chemistry** — language and diffusion models over
-  molecular representations.
+- **Generative models for chemistry** — language models, diffusion models, and
+  LLM applications for molecular design and optimization.
 
 ### Contact
 
