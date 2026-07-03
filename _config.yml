@@ -2,8 +2,8 @@
 title: Franklin Hu
 email: frankhu@stanford.edu
 description: >-
-  Personal website of Franklin Hu — researcher at Stanford working on
-  machine learning for chemistry and molecular spectroscopy.
+  Personal website of Franklin Hu — PhD candidate at Stanford working on
+  machine learning for chemistry, molecular spectroscopy, and biology.
 baseurl: "" # subpath of your site, e.g. /blog
 url: "https://franklinhu1.github.io" # the base hostname & protocol for your site
 
@@ -20,6 +20,12 @@ minima:
   social_links:
     - platform: github
       user_name: FranklinHu1
+
+# Order of the top navigation bar
+header_pages:
+  - about.md
+  - publications.md
+  - repositories.md
 
 plugins:
   - jekyll-feed
