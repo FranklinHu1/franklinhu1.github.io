@@ -26,7 +26,7 @@ A complete, continuously updated list is available on my
   *arXiv (preprint)*, 2026.
 
 - **Generative Design of Intrinsically Disordered Protein Regions with IDiom.**
-  JX Liu, S Ibarraran, **F Hu**, A Park, AR Dunn, GM Rotskoff.
+  JX Liu, S Ibarraran\*, **F Hu**\*, A Park\*, AR Dunn, GM Rotskoff.
   *bioRxiv (preprint)*, 2026.
 
 - **Label-Free Optical Differentiation of Single Diffusing Amino Acids at Picomolar Concentrations.**
