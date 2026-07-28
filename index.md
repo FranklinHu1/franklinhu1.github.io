@@ -17,4 +17,5 @@ for chemistry and biology, and molecular dynamics.
 - 📚 See my [publications](/publications/).
 - 💻 Browse my [code &amp; repositories](/repositories/).
 - 📄 More [about me](/about/).
+- 📑 Read my [CV](/cv/).
 - ✉️ Reach me at [frankhu@stanford.edu](mailto:frankhu@stanford.edu).

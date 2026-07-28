@@ -26,6 +26,7 @@ header_pages:
   - about.md
   - publications.md
   - repositories.md
+  - cv.md
 
 plugins:
   - jekyll-feed
