@@ -9,37 +9,49 @@ A complete, continuously updated list is available on my
 
 ## 2026
 
-- **Aligning Transformers with Continuous Feedback via Energy Rank Alignment.**
-  S Chennakesavalu, **F Hu**, S Ibarraran, G Rotskoff.
-  *Advances in Neural Information Processing Systems (NeurIPS)*, 2026.
+- **Training Large Language Models for Small-Molecule Design with Synthetic Task Scaling.**
+  **F Hu**\*, S Chennakesavalu\*, Z Wang, P Suriana, B Vani, K Shmilovich, et al.
+  *arXiv (preprint)*, 2026.
+
+- **Frontier LLMs are Effective Batch Optimizers: Assessing Reasoning Models in Continuous and Discrete Settings.**
+  **F Hu**, S Chennakesavalu, D Graff.
+  *arXiv (preprint)*, 2026.
+
+- **Efficient, Few-shot Directed Evolution with Energy Rank Alignment.**
+  S Ibarraran, S Chennakesavalu, **F Hu**, GM Rotskoff.
+  *Journal of Chemical Information and Modeling*, 2026.
+
+- **Streamlining Analysis and Design of Two-Dimensional Electronic Spectroscopy Using Machine Learning.**
+  NI Hausman, J Kelly, MS Chen, **F Hu**, A Lee, A Montoya-Castillo, et al.
+  *The Journal of Chemical Physics*, 2026.
+
+- **Generative Design of Intrinsically Disordered Protein Regions with IDiom.**
+  JX Liu, S Ibarraran\*, **F Hu**\*, A Park\*, AR Dunn, GM Rotskoff.
+  *ICML 2026 Workshop on Generative and Agentic AI for Biology*, 2026.
+
+- **Label-Free Optical Differentiation of Single Diffusing Amino Acids at Picomolar Concentrations.**
+  JK Rasch, AL Clayborn, D Sole-Barber, S Wan, CA Saavedra, AJ Fairhall, **F Hu**, et al.
+  *Under review, Nature Nanotechnology*, 2026.
+
+- **Efficient, Few-shot Directed Evolution with Energy Rank Alignment.**
+  S Ibarraran, S Chennakesavalu, **F Hu**, GM Rotskoff.
+  *ICLR 2026 Workshop on Generative and Experimental Perspectives for Biomolecular Design*, 2026.
 
 - **Pushing the Limits of One-Dimensional NMR Spectroscopy for Automated Structure Elucidation Using Artificial Intelligence.**
   **F Hu**, JM Tubb, D Argyropoulos, S Golotvin, M Elyashberg, GM Rotskoff, et al.
   *Journal of Chemical Information and Modeling*, 2026.
 
-- **Efficient, Few-shot Directed Evolution with Energy Rank Alignment.**
-  S Ibarraran, S Chennakesavalu, **F Hu**, GM Rotskoff.
-  *bioRxiv (preprint)*, 2026.
-
-- **Streamlining Analysis and Design of Two-Dimensional Electronic Spectroscopy Using Machine Learning.**
-  NI Hausman, J Kelly, MS Chen, **F Hu**, A Lee, A Montoya-Castillo, et al.
-  *arXiv (preprint)*, 2026.
-
-- **Generative Design of Intrinsically Disordered Protein Regions with IDiom.**
-  JX Liu, S Ibarraran\*, **F Hu**\*, A Park\*, AR Dunn, GM Rotskoff.
-  *bioRxiv (preprint)*, 2026.
-
-- **Label-Free Optical Differentiation of Single Diffusing Amino Acids at Picomolar Concentrations.**
-  R Goldsmith, J Rasch, A Clayborn, D Sole-Barber, S Wan, C Saavedra, et al.
-  *Research Square (preprint)*, 2026.
-
 ## 2025
+
+- **Aligning Transformers with Continuous Feedback via Energy Rank Alignment.**
+  S Chennakesavalu, **F Hu**, S Ibarraran, GM Rotskoff.
+  *Advances in Neural Information Processing Systems (NeurIPS)*, 2025.
 
 - **Two-Dimensional Electronic Spectroscopy in the Condensed Phase Using Equivariant Transformer Accelerated Molecular Dynamics Simulations.**
   J Kelly, **F Hu**, A Damiani, MS Chen, A Snider, M Son, A Lee, P Gupta, et al.
   *The Journal of Physical Chemistry Letters*, 2025.
 
-- **Aligning Chemical and Protein Language Models with Continuous Feedback Using Energy Rank Alignment.**
+- **Aligning Transformers with Continuous Feedback via Energy Rank Alignment.**
   S Chennakesavalu, **F Hu**, S Ibarraran, GM Rotskoff.
   *ICLR 2025 Workshop on Generative and Experimental Perspectives for Biomolecular Design*, 2025.
 
@@ -53,15 +65,11 @@ A complete, continuously updated list is available on my
   S Chennakesavalu, SK Manikandan, **F Hu**, GM Rotskoff.
   *Proceedings of the National Academy of Sciences (PNAS)*, 2024.
 
-- **Adaptive Nonequilibrium Design of Actin-Based Metamaterials: Fundamental and Practical Limits of Control.**
-  SK Manikandan, S Chennakesavalu, G Rotskoff, **F Hu**.
-  *APS March Meeting Abstracts*, 2024.
-
-## 2023
-
 - **OpenMM 8: Molecular Dynamics Simulation with Machine Learning Potentials.**
   P Eastman, R Galvelis, RP Peláez, CRA Abreu, SE Farr, E Gallicchio, **F Hu**, et al.
-  *The Journal of Physical Chemistry B*, 2023.
+  *The Journal of Physical Chemistry B*, 2024.
+
+## 2023
 
 - **Treating Semiempirical Hamiltonians as Flexible Machine Learning Models Yields Accurate and Interpretable Results.**
   **F Hu**, F He, DJ Yaron.
