@@ -1,6 +1,10 @@
 # --- Site settings ---
 title: Frank Hu
 email: frankhu@stanford.edu
+# Explicitly empty: with no description key at all, GitHub Pages falls back to
+# the repository's own description ("Personal page"), which minima prints in
+# the footer of every page.
+description: ""
 baseurl: ""
 url: "https://franklinhu1.github.io"
 
