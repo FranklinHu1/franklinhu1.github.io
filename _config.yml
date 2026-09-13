@@ -4,16 +4,14 @@ email: frankhu@stanford.edu
 description: >-
   Personal website of Frank Hu — PhD candidate at Stanford working on
   machine learning for chemistry, molecular spectroscopy, and biology.
-baseurl: "" # subpath of your site, e.g. /blog
-url: "https://franklinhu1.github.io" # the base hostname & protocol for your site
+baseurl: ""
+url: "https://franklinhu1.github.io"
 
 # --- Author / social ---
-author:
-  name: Frank Hu
+author: Frank Hu
 github_username: FranklinHu1
 
 # --- Build settings ---
-# minima is the default theme shipped with GitHub Pages — no plugin install needed.
 theme: minima
 minima:
   skin: auto # respects the visitor's light/dark preference

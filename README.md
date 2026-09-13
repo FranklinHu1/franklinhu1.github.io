@@ -8,8 +8,14 @@ on [GitHub Pages](https://pages.github.com/) at
 
 - `index.md` — home page
 - `about.md` — about page
-- `_posts/YYYY-MM-DD-title.md` — blog posts
+- `publications.md` — publication list
+- `repositories.md` — selected public code
+- `cv.md` — CV page, embedding `assets/HuFrankCV.pdf`
 - `_config.yml` — site-wide settings (title, theme, plugins)
+
+`assets/HuFrankCV.pdf` is built from the
+[hu-frank-cv](https://github.com/FranklinHu1/hu-frank-cv) repository
+(`main.tex`); regenerate and copy it here when the CV changes.
 
 Any push to `main` triggers GitHub Pages to rebuild and publish the site.
 
