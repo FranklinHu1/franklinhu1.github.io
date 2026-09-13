@@ -1,9 +1,6 @@
 # --- Site settings ---
 title: Frank Hu
 email: frankhu@stanford.edu
-description: >-
-  Personal website of Frank Hu — PhD candidate at Stanford working on
-  machine learning for chemistry, molecular spectroscopy, and biology.
 baseurl: ""
 url: "https://franklinhu1.github.io"
 
