@@ -12,8 +12,9 @@ applying machine learning to problems in chemistry, including:
 - **Molecular dynamics** — simulating and studying condensed-phase systems,
   such as chromophores in explicit solvent, using MLP-accelerated dynamics.
 - **Structure elucidation** — inferring chemical structures from spectral data.
-- **Generative models for chemistry** — language models, diffusion models, and
-  LLM applications for molecular design and optimization.
+- **Generative models for chemistry and proteins** — language models, diffusion
+  models, and LLM applications for molecular design and optimization, and
+  generative design and directed evolution of proteins.
 
 ### Contact
 
