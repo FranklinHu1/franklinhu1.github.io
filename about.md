@@ -14,7 +14,7 @@ applying machine learning to problems in chemistry, including:
 - **Structure elucidation** — inferring chemical structures from spectral data.
 - **Generative models for chemistry and proteins** — language models, diffusion
   models, and LLM applications for molecular design and optimization, and
-  generative design and directed evolution of protein sequences.
+  generative design and directed evolution of proteins.
 
 ### Contact
 
