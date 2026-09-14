@@ -13,19 +13,19 @@ A complete, continuously updated list is available on my
   **F Hu**\*, S Chennakesavalu\*, Z Wang, P Suriana, B Vani, K Shmilovich, et al.
   *arXiv (preprint)*, 2026.
 
-- **Frontier LLMs are Effective Batch Optimizers: Assessing Reasoning Models in Continuous and Discrete Settings.**
+- **Frontier LLMs are effective batch optimizers: Assessing reasoning models in continuous and discrete settings.**
   **F Hu**, S Chennakesavalu, D Graff.
   *arXiv (preprint)*, 2026.
 
-- **Efficient, Few-shot Directed Evolution with Energy Rank Alignment.**
+- **Efficient, Few-Shot Directed Evolution with Energy Rank Alignment.**
   S Ibarraran, S Chennakesavalu, **F Hu**, GM Rotskoff.
   *Journal of Chemical Information and Modeling*, 2026.
 
-- **Streamlining Analysis and Design of Two-Dimensional Electronic Spectroscopy Using Machine Learning.**
+- **Streamlining analysis and design of two-dimensional electronic spectroscopy using machine learning.**
   NI Hausman, J Kelly, MS Chen, **F Hu**, A Lee, A Montoya-Castillo, et al.
   *The Journal of Chemical Physics*, 2026.
 
-- **Generative Design of Intrinsically Disordered Protein Regions with IDiom.**
+- **Generative design of intrinsically disordered protein regions with IDiom.**
   JX Liu, S Ibarraran\*, **F Hu**\*, A Park\*, AR Dunn, GM Rotskoff.
   *ICML 2026 Workshop on Generative and Agentic AI for Biology*, 2026.
 
@@ -61,7 +61,7 @@ A complete, continuously updated list is available on my
   **F Hu**, MS Chen, GM Rotskoff, MW Kanan, TE Markland.
   *ACS Central Science*, 2024.
 
-- **Adaptive Nonequilibrium Design of Actin-Based Metamaterials: Fundamental and Practical Limits of Control.**
+- **Adaptive nonequilibrium design of actin-based metamaterials: Fundamental and practical limits of control.**
   S Chennakesavalu, SK Manikandan, **F Hu**, GM Rotskoff.
   *Proceedings of the National Academy of Sciences (PNAS)*, 2024.
 
