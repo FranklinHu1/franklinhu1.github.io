@@ -20,4 +20,6 @@ applying machine learning to problems in chemistry, including:
 
 - Email: [frankhu@stanford.edu](mailto:frankhu@stanford.edu)
 - GitHub: [@FranklinHu1](https://github.com/FranklinHu1)
+- LinkedIn: [frankhu1499](https://linkedin.com/in/frankhu1499)
+- Google Scholar: [Frank Hu](https://scholar.google.com/citations?user=xUNA6FkAAAAJ&hl=en)
 - CV: [Download PDF](/assets/HuFrankCV.pdf)
