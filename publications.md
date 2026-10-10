@@ -9,6 +9,14 @@ A complete, continuously updated list is available on my
 
 ## 2026
 
+- **Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features.**
+  JX Liu, S Ibarraran, **F Hu**, S Yang, XA Feng, A Park, et al.
+  *arXiv (preprint)*, 2026.
+
+- **SIGMol: Enabling Molecular Design with Flow Map Chemical Language Models.**
+  S Dunne, S Ibarraran, **F Hu**.
+  *NeurIPS 2026 Workshop on Beyond Next Token Prediction: Diffusion and Flow Models for Next-Generation Decoding*, 2026.
+
 - **Training Large Language Models for Small-Molecule Design with Synthetic Task Scaling.**
   **F Hu**\*, S Chennakesavalu\*, Z Wang, P Suriana, B Vani, K Shmilovich, et al.
   *arXiv (preprint)*, 2026.
