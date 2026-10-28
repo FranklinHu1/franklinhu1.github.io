@@ -9,6 +9,10 @@ A complete, continuously updated list is available on my
 
 ## 2026
 
+- **Distillation, Self-Training, and the Fragility of Learned Chemical Reasoning.**
+  A Aneesh, S Ibarraran, **F Hu**, J Liu, GM Rotskoff.
+  *arXiv (preprint)*, 2026.
+
 - **Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features.**
   JX Liu, S Ibarraran, **F Hu**, S Yang, XA Feng, A Park, et al.
   *arXiv (preprint)*, 2026.
