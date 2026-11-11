@@ -9,6 +9,10 @@ A complete, continuously updated list is available on my
 
 ## 2026
 
+- **Context-Aware Automated NMR Structure Elucidation.**
+  **F Hu**, JM Tubb, GM Rotskoff, MW Kanan, TE Markland.
+  *arXiv (preprint)*, 2026.
+
 - **Distillation, Self-Training, and the Fragility of Learned Chemical Reasoning.**
   A Aneesh, S Ibarraran, **F Hu**, J Liu, GM Rotskoff.
   *arXiv (preprint)*, 2026.
